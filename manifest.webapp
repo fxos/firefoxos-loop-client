@@ -1,7 +1,7 @@
 {
   "name": "Firefox Hello",
   "description": "Firefox Hello",
-  "launch_path": "/firefoxos-loop-client/index.html",
+  "launch_path": "/index.html",
   "type": "privileged",
   "developer": {
     "name": "The Gaia Team",
